@@ -59,6 +59,6 @@ This library includes the lecture-notes of the course _Applied Deep Learning,_ a
 * [Section 3: Variational Autoencoders and Data Generation](https://github.com/bereyhi-courses/dl-library/blob/main/LectureNotes_AplDL/Chapter_8/CH8_Sec3.pdf)
 
 ## Textbooks
-[Bishop](www.bishopbook.com) C. Bishop, and H. Bishop. _Deep Learning: Foundations and Concepts,_ Springer Nature, 2023
-[Goodfellow et al.](www.deeplearningbook.org) I. Goodfellow, Y. Bengio, and A. Courville. _Deep learning,_ MIT Press Cambridge, 2016
-[Aggarwal](https://link.springer.com/book/10.1007/978-3-031-29642-0) C. Aggarwal. _Neural Networks and Deep Learning,_ vol. 10, no. 978, Springer, 2018.
+* [Bishop](www.bishopbook.com) C. Bishop, and H. Bishop. _Deep Learning: Foundations and Concepts,_ Springer Nature, 2023
+* [Goodfellow et al.](www.deeplearningbook.org) I. Goodfellow, Y. Bengio, and A. Courville. _Deep learning,_ MIT Press Cambridge, 2016
+* [Aggarwal](https://link.springer.com/book/10.1007/978-3-031-29642-0) C. Aggarwal. _Neural Networks and Deep Learning,_ vol. 10, no. 978, Springer, 2018.
